@@ -3,6 +3,7 @@ package poly.task1FromBook;
 public class Animal {
     public void eat() {
         System.out.println("poly.task1FromBook.Animal is eating");
+
     }
 
     public void roam() {
